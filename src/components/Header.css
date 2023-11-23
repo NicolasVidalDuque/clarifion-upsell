@@ -1,29 +1,24 @@
 .layer-1-icon {
-  position: relative;
   width: 20px;
   height: 20px;
   overflow: hidden;
   flex-shrink: 0;
 }
 .fluentcheckmark-starburst-20-icon {
-  position: absolute;
   top: 0;
-  left: 0;
   width: 22px;
   height: 22px;
   overflow: hidden;
 }
 .day-satisfaction-guarantee {
-  position: absolute;
-  top: 7px;
-  left: 30px;
   line-height: 100%;
   text-transform: capitalize;
   font-weight: 500;
 }
 .div4 {
-  position: relative;
-  width: 227px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;width: 227px;
   height: 22px;
 }
 .layer-1-parent {
@@ -37,18 +32,15 @@
   box-sizing: border-box;
 }
 .a41c73b670a97ae1d4f47-clarifio-icon {
-  position: relative;
   width: 106.67px;
   height: 20px;
   object-fit: cover;
 }
 .frame-icon {
-  position: relative;
   width: 44px;
   height: 16px;
 }
 .norton-antivirus-logo-1-icon {
-  position: relative;
   width: 41px;
   height: 16px;
   overflow: hidden;
@@ -69,9 +61,6 @@
   justify-content: space-between;
 }
 .frame-parent2 {
-  position: absolute;
-  top: 0;
-  left: calc(50% - 180px);
   background-color: #fff;
   box-shadow: 0 24px 24px rgba(15, 29, 11, 0.04);
   display: flex;
