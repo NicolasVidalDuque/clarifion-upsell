@@ -3,7 +3,6 @@
   box-sizing: border-box;
 }
 .frame-1484578050 {
-  display: reset ;
   background: #ffffff;
   border-radius: 10px;
   padding: 24px;
@@ -69,5 +68,6 @@
   text-align: left;
   font: 400 16px/150% "Manrope-Regular", sans-serif;
   align-self: stretch;
+  
 }
 

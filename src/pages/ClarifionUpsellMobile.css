@@ -353,7 +353,7 @@ color: #4D5254;
 .one-time-only-special-price-fo-parent {
   display: flex;  
   flex-direction: row;
-      padding: 40px 0px 40px 0px;
+      padding: 40px 0px 40px 40px;
     gap: 40px;
   flex: 1 1 auto;
 }
@@ -368,5 +368,8 @@ color: #4D5254;
 }
 .banner img{
   width: 100%;
+}
+.aoeu{
+  display: flex !important;
 }
 }

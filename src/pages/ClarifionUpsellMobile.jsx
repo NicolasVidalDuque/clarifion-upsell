@@ -84,7 +84,7 @@ const ClarifionUpsellMobile = () => {
             <div className="banner">
               <img src={bigImage} />
             </div>
-            <div className="hidden2">
+            <div className="hidden2 aoeu">
               <Comment />
             </div>
           </div>
