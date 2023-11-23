@@ -52,3 +52,13 @@
   font-family: Manrope;
   margin-top: 32px;
 }
+
+@media Screen and (min-width: 1500px){
+  .frame-parent9{
+width: 100%;
+flex-direction: row;
+    justify-content: space-between;
+    padding-left: 119px;
+    padding-right: 119px;
+  }
+  }

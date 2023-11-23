@@ -18,7 +18,8 @@
 .div4 {
   display: flex;
   justify-content: space-between;
-  align-items: center;width: 227px;
+  align-items: center;
+  width: 227px;
   height: 22px;
 }
 .layer-1-parent {
@@ -73,4 +74,64 @@
   font-size: 12px;
   color: #fff;
   font-family: Manrope;
+}
+.special{
+  display: none;
+}
+
+@media Screen and (min-width: 1500px){
+  .special{
+    display: flex;
+  }
+  .header-color{
+    width: 100%;
+    background-color: #252f3d;
+  }
+  .layer-1-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  box-sizing: border-box;
+}
+.a41c73b670a97ae1d4f47-clarifio-icon {
+  width: 192px;
+  height: 36px;
+  object-fit: cover;
+}
+.frame-icon {
+  width: 88px;
+  height: 32px;
+}
+.norton-antivirus-logo-1-icon {
+  width: 88px;
+  height: 36px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.layer-1-parent{
+  width: 1245px;
+  margin: 0 auto;
+  padding: 19px 0;
+}
+.layer-1-icon{
+  display: none;
+}
+.div4 {
+  display: flex;
+  gap: 8px;
+  width: auto;
+}
+
+.a41c73b670a97ae1d4f47-clarifio-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width:1245px;
+}
+.frame-parent2{
+  box-shadow: 0 0 0 0;
+}
 }

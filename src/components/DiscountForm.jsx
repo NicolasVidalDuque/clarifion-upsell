@@ -19,6 +19,7 @@ const DiscountForm = () => {
               <div className="secure-256-bit-ssl">
                 Secure 256-bit SSL encryption
               </div>
+            <div className="line-div hidden3" />
             </div>
           </div>
           <div className="frame-child3" />
