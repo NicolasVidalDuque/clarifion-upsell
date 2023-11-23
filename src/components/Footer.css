@@ -41,8 +41,6 @@
   text-align: center;
 }
 .frame-parent9 {
-  bottom: 0;
-  left: calc(50% - 180px);
   background-color: #252f3d;
   width: 360px;
   flex-direction: column;
@@ -52,4 +50,5 @@
   font-size: 12px;
   color: #fff;
   font-family: Manrope;
+  margin-top: 32px;
 }
