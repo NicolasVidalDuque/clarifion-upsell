@@ -1,9 +1,7 @@
 .yes-claim {
-  position: relative;
   text-transform: uppercase;
 }
 .line-icon {
-  position: relative;
   width: 12.99px;
   height: 14.55px;
 }
@@ -25,26 +23,22 @@
   padding: 16px 32px;
 }
 .free-shipping {
-  position: relative;
   line-height: 140%;
   text-transform: capitalize;
 }
 .line-div {
-  position: relative;
   border-right: 1px solid #cfcfcf;
   box-sizing: border-box;
   width: 1px;
   height: 15px;
 }
 .lock-7-1 {
-  position: relative;
   width: 12px;
   height: 12px;
   overflow: hidden;
   flex-shrink: 0;
 }
 .secure-256-bit-ssl {
-  position: relative;
   line-height: 150%;
   text-transform: capitalize;
 }
@@ -64,14 +58,12 @@
   gap: 12px;
 }
 .frame-child3 {
-  position: relative;
   border-top: 1px solid #cfcfcf;
   box-sizing: border-box;
   width: 290px;
   height: 1px;
 }
 .visa-icon {
-  position: relative;
   width: 24px;
   height: 14px;
   overflow: hidden;
@@ -104,7 +96,6 @@
   justify-content: flex-start;
 }
 .no-thanks-i {
-  position: relative;
   font-size: 12px;
   text-decoration: underline;
   text-transform: uppercase;
