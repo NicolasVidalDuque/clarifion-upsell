@@ -299,3 +299,9 @@
   font-family: Manrope;
 }
 
+
+@media screen and (min-width: 1379px){
+  .clarifion-upsell-mobile{
+    width: 1379px;
+  }
+}

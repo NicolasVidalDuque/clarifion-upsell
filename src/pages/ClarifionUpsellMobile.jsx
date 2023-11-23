@@ -3,6 +3,7 @@ import PriceCard from "../components/PriceCard";
 import DiscountForm from "../components/DiscountForm";
 import Footer from "../components/Footer";
 import "./ClarifionUpsellMobile.css";
+import bigImage from "../image 4.png"
 
 const ClarifionUpsellMobile = () => {
   return (
@@ -79,7 +80,7 @@ const ClarifionUpsellMobile = () => {
             <span className="special-price-for"> ($84.00 total!)</span>
           </div>
           <div className="banner">
-            <img src="../../public/image 4.png" />
+            <img src={bigImage} />
           </div>
           <PriceCard />
           <div className="frame-parent1">
