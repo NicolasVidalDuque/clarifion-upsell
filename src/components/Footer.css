@@ -1,0 +1,61 @@
+.copyright-c-2023 {
+  position: relative;
+  line-height: 140%;
+  text-transform: capitalize;
+}
+.frame-child4 {
+  position: relative;
+  border-right: 1px solid #fff;
+  box-sizing: border-box;
+  width: 1px;
+  height: 15px;
+}
+.clarifionsupportclarifioncom {
+  position: relative;
+  line-height: 140%;
+  text-transform: lowercase;
+}
+.copyright-c-2023-parent {
+  border-radius: 4px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 8px 0;
+  gap: 12px;
+}
+.lock-7-11 {
+  position: relative;
+  width: 13px;
+  height: 13px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.secure-256-bit-ssl1 {
+  position: relative;
+  line-height: 150%;
+  text-transform: capitalize;
+}
+.frame-parent9,
+.lock-7-1-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+  text-align: center;
+}
+.frame-parent9 {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 180px);
+  background-color: #252f3d;
+  width: 360px;
+  flex-direction: column;
+  padding: 20px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 12px;
+  color: #fff;
+  font-family: Manrope;
+}

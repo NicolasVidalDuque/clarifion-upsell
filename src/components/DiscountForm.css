@@ -1,0 +1,125 @@
+.yes-claim {
+  position: relative;
+  text-transform: uppercase;
+}
+.line-icon {
+  position: relative;
+  width: 12.99px;
+  height: 14.55px;
+}
+.yes-claim-my-discount-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.frame-wrapper2 {
+  align-self: stretch;
+  border-radius: 50px;
+  background-color: #59ae43;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 16px 32px;
+}
+.free-shipping {
+  position: relative;
+  line-height: 140%;
+  text-transform: capitalize;
+}
+.line-div {
+  position: relative;
+  border-right: 1px solid #cfcfcf;
+  box-sizing: border-box;
+  width: 1px;
+  height: 15px;
+}
+.lock-7-1 {
+  position: relative;
+  width: 12px;
+  height: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.secure-256-bit-ssl {
+  position: relative;
+  line-height: 150%;
+  text-transform: capitalize;
+}
+.free-shipping-parent,
+.lock-7-1-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.lock-7-1-parent {
+  justify-content: flex-start;
+  gap: 8px;
+  text-align: center;
+}
+.free-shipping-parent {
+  justify-content: center;
+  gap: 12px;
+}
+.frame-child3 {
+  position: relative;
+  border-top: 1px solid #cfcfcf;
+  box-sizing: border-box;
+  width: 290px;
+  height: 1px;
+}
+.visa-icon {
+  position: relative;
+  width: 24px;
+  height: 14px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.visa-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+}
+.frame-parent7,
+.frame-parent8 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+.frame-parent8 {
+  border-radius: 4px;
+  border: 1px solid #cfcfcf;
+  justify-content: center;
+  padding: 8px 16px;
+  font-size: 12px;
+  color: #4d5254;
+}
+.frame-parent7 {
+  align-self: stretch;
+  justify-content: flex-start;
+}
+.no-thanks-i {
+  position: relative;
+  font-size: 12px;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: #f82c2c;
+}
+.frame-parent6 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+  text-align: left;
+  font-size: 14px;
+  color: #fff;
+  font-family: Manrope;
+}
